@@ -1,4 +1,4 @@
-module esrcwatermill
+module github.com/pperaltaisern/esrcwatermill
 
 go 1.18
 
